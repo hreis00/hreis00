@@ -2,8 +2,8 @@
 I consider myself a social person and (almost) always in a good mood! Special taste for team sports, especially football and everything that involves it.
 
 ### 🛠️ Skills
-Backend: Node.js and Express.js
-Frontend: Javascript (React.js, Next.js, Vite)
+Backend: Node.js and Express.js  
+Frontend: Javascript (React.js, Next.js, Vite)  
 Database: Microsoft SQL Server and MongoDB
 
 ### 💼 Professional Opportunities
