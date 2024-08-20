@@ -12,7 +12,7 @@ I consider myself a social person and (almost) always in a good mood! Special ta
 I'm looking for challenges and opportunities allowing my continuous learning, even if it's not within my comfort area.
 
 #### ⚙️ Frontend
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,vite,tailwind)  
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind&perline=4)  
 
 #### ⚙️ Backend
 ![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,mysql,mongodb)  
@@ -20,5 +20,5 @@ I'm looking for challenges and opportunities allowing my continuous learning, ev
 #### ⚙️ Others  
 ![My Skills](https://skillicons.dev/icons?i=cs,dotnet,php)  
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hreis00&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hreis00&layout=compact&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hreis00&show_icons=true&theme=radical) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hreis00&layout=compact&theme=radical) -->
