@@ -9,8 +9,8 @@ Special taste for team sports, especially football and everything that involves 
 ***Frontend:*** Javascript (React.js, Next.js, Vite).  
 ***Database:*** Microsoft SQL Server and MongoDB.
 
-#### 💼 Professional Opportunities
-I'm looking for challenges and opportunities allowing my continuous learning, even if it's not within my comfort area.
+<!-- #### 💼 Professional Opportunities
+I'm looking for challenges and opportunities allowing my continuous learning, even if it's not within my comfort area. -->
 
 #### ⚙️ Frontend
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind&perline=4)  
