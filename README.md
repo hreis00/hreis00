@@ -19,7 +19,7 @@ I'm looking for challenges and opportunities allowing my continuous learning, ev
 ![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,mysql,mongodb)  
 
 #### ⚙️ Others  
-![My Skills](https://skillicons.dev/icons?i=cs,dotnet,php)  
+![My Skills](https://skillicons.dev/icons?i=git,docker)  
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hreis00&show_icons=true&theme=radical) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hreis00&layout=compact&theme=radical) -->
